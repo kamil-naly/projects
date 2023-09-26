@@ -1,5 +1,5 @@
 # Projects
-This repository contains my projects for Codecademy Business Intelligence Data Analyst path and other data analysis related projects.\
+This repository contains my projects for Codecademy Business Intelligence Data Analyst path and other data analysis and visualization related projects.\
 Built with:
 - Jupyter notebook
 - SQL Language (MySQL and PosgreSQL)
