@@ -1,12 +1,12 @@
 # Projects
-This repository contains my projects for Codecademy Business Intelligence Data Analyst path and other data analysis related projects.
+This repository contains my projects for Codecademy Business Intelligence Data Analyst path and other data analysis related projects.\
 Built with:
 - Jupyter notebook
 - SQL Language (MySQL and PosgreSQL)
 - Tableau
 
 # Project List
-## US insurance cost
+## [US insurance cost](https://github.com/kamil-naly/projects/tree/main/US%20insurance%20cost)
 This project relates to `Insurance` dataset, which contains 7 variables of more than 1000 insurance clients.
 The goal is to explore data on how certain factors affect the insurance charge of the clients.
 ## Biodiversity
