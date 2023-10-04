@@ -7,9 +7,9 @@ Built with:
 
 # Project List
 ## Business Analysis
-### [Business System Modelling](https://github.com/kamil-naly/projects/tree/main/Business%20System%20Modelling)
-### [Canvas Business Model](https://github.com/kamil-naly/projects/tree/main/Canvas%20Business%20Model)
-### [Information System Design](https://github.com/kamil-naly/projects/tree/main/Information%20System%20Design)
+- [Business System Modelling](https://github.com/kamil-naly/projects/tree/main/Business%20System%20Modelling)
+- [Canvas Business Model](https://github.com/kamil-naly/projects/tree/main/Canvas%20Business%20Model)
+- [Information System Design](https://github.com/kamil-naly/projects/tree/main/Information%20System%20Design)
 
 ## Jupyter notebook
 ### [US insurance cost](https://github.com/kamil-naly/projects/tree/main/US%20insurance%20cost)
@@ -27,7 +27,7 @@ The goals include analyzing factors contributing to happiness, exploring the lin
 
 ## PostgreSQL
 ### [Instagram-like Database](https://github.com/kamil-naly/projects/tree/main/Instagram%20Database)
-A PostgreSQL project which building a database resembling Instagram's structure. It is used to perform data analysis for real world business related questions and scenarios such as:
+A PostgreSQL project that aims to construct a database resembling Instagram's structure. It is used to perform data analysis for real world business related questions and scenarios such as:
 - launching campaign to target the weekdays with the most user registerations
 - encouraging inactive users to log in back to the system
 - analysing possible bot accounts
