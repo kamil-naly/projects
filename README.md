@@ -15,3 +15,9 @@ The goals involve exploring datasets to analyze species diversity patterns, dist
 ## [World Happiness Report](https://github.com/kamil-naly/projects/tree/main/World%20Happiness%20Report)
 This project aims to visualize data using Python within a Jupyter Notebook, utilizing the World Happiness Report dataset from Kaggle. 
 The goals include analyzing factors contributing to happiness, exploring the link between economic development and happiness, understanding the impact of social connections on happiness, etc.
+## [Instagram-like Database](https://github.com/kamil-naly/projects/tree/main/Instagram%20Database)
+A PostgreSQL project which building a database resembling Instagram's structure. It is used to perform data analysis for real world business related questions and scenarios such as:
+- launching campaign to target the weekdays with the most user registerations
+- encouraging inactive users to log in back to the system
+- analysing possible bot accounts
+- etc.
