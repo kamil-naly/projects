@@ -4,6 +4,7 @@ Built with:
 - Jupyter notebook
 - SQL Language (MySQL and PosgreSQL)
 - Tableau
+- Ms. Excel
 
 # Project List
 ## Business Analysis
