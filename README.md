@@ -39,11 +39,8 @@ Perform data analysis using MySQL based on a movie rental database.
 
 ## PostgreSQL
 - [Instagram-like Database](https://github.com/kamil-naly/projects/tree/main/Instagram%20Database)
-A PostgreSQL project that aims to construct a database resembling Instagram's structure. It is used to perform data analysis for real world business related questions and scenarios such as:
-- launching campaign to target the weekdays with the most user registerations
-- encouraging inactive users to log in back to the system
-- analysing possible bot accounts
-- etc.
+A PostgreSQL project that aims to construct a database resembling Instagram's structure. It is used to perform data analysis for real world business related questions and scenarios such as: launching campaign to target the weekdays with the most user registerations,
+encouraging inactive users to log in back to the system, analysing possible bot accounts, etc.
 
 
 
